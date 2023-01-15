@@ -1,1 +1,2 @@
-# CurVit
+# Cur Vit
+Curicullum Vitae
